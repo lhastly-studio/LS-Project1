@@ -1,0 +1,13 @@
+*{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+   
+  h2{
+        text-align: center;
+   }
+   .login-form{
+   
+        background: rgb(107, 255, 248);
+   }
